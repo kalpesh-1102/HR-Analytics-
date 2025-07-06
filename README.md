@@ -1,4 +1,4 @@
-# 🧑‍💼 HR Analytics Dashboard – Power BI
+#  HR Analytics Dashboard – Power BI
 
 This interactive Power BI dashboard provides deep insights into **Employee Attrition** across departments within an organization. Designed for HR teams and management, the dashboard focuses on visualizing attrition trends, identifying potential risk factors, and enabling data-driven decision-making.
 
@@ -61,7 +61,7 @@ The project uses a sample HR dataset simulating employee data across various dep
 
 If you find this project useful or have feedback, feel free to connect:
 
-- 💼 [LinkedIn – Kalpesh](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn – Kalpesh](https://www.linkedin.com/in/kalpesh1102/)  
 - ✉️ GitHub Issues for questions/suggestions
 
 ---
